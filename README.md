@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" alt="JRS Recycling Solutions Banner" width="100%" />
-
   <h1 align="center">JRS Recycling Solutions</h1>
 
   <p align="center">
